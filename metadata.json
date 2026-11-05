@@ -1,0 +1,6 @@
+{
+  "name": "Studio — Stylist Booking & Payment CRM",
+  "description": "All-in-one modern booking, scheduling, and payment platform for Nigerian makeup artists and beauty styling professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
